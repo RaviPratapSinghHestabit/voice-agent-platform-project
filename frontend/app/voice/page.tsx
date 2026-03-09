@@ -93,7 +93,7 @@ console.log("Supabase session:", data)
 
 const token = data.session?.access_token
 
-const res = await fetch("http://127.0.0.1:8000/test-voice",{
+const res = await fetch("https://voice-agent-platform-project-production.up.railway.app/test-voice",{
 method:"POST",
 headers:{
 "Content-Type":"application/json",
