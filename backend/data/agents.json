@@ -1,0 +1,7 @@
+{
+    "agent1": {
+        "name": "Support Bot",
+        "system_prompt": "You are a customer support assistant.",
+        "knowledge": "\nOur refund policy allows returns within 7 days."
+    }
+}

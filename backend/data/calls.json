@@ -1,0 +1,20 @@
+[
+    {
+        "agent_id": "default",
+        "user_text": "Hello.",
+        "ai_response": "Hello! I'm happy to assist you. How can I help today?",
+        "duration_seconds": 2.09,
+        "sentiment_score": 5,
+        "quality_score": 8,
+        "timestamp": "2026-02-25T15:15:07.787053"
+    },
+    {
+        "agent_id": "default",
+        "user_text": "Hello.",
+        "ai_response": "Hello! It's nice to meet you. Is there something I can help you with or would you like to chat?",
+        "duration_seconds": 3.63,
+        "sentiment_score": 8,
+        "quality_score": 6,
+        "timestamp": "2026-03-05T01:35:50.524454"
+    }
+]
