@@ -264,7 +264,7 @@ https://voice-agent-platform-project.vercel.app/
 ### Demo Flow
 
 1. Register a new account
-2. Login to dashboard
+2. Login to dashboard   
 3. Open Voice Agent
 4. Allow microphone access
 5. Start speaking with the AI agent
